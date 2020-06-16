@@ -8,7 +8,7 @@
 set -e
 
 # Required!
-export DEVICE=excalibur
+export DEVICE=joyeuse
 export DEVICE_COMMON=sm6250-common
 export VENDOR=redmi
 
