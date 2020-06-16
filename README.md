@@ -1,11 +1,11 @@
 Copyright (C) 2020 The LineageOS Project
 
-Device configuration for the Redmi Note 9S / 9 Pro (India)
+Device configuration for the Redmi Note 9 Pro Max
 ============================================
 
-The Redmi Note 9S / 9 Pro India (codenamed _"curtana"_) is a mid range smartphone from Xiaomi's sub-brand Redmi.
+The Redmi Note 9 Pro Max (codenamed _"excalibur"_) is a mid range smartphone from Xiaomi's sub-brand Redmi.
 
-It was announced in March 2020 and released in April 2020.
+It was announced in March 2020 and released in May 2020.
 
 ## Device specifications
 
@@ -22,4 +22,4 @@ Display | 1080 x 2400 pixels, 20:9 ratio, 6.67 inches, IPS LCD (~395 ppi density
 
 ## Device picture
 
-![Redmi Note 9S / 9 Pro (India)](https://cdn-files.kimovil.com/default/0004/36/thumb_335718_default_big.jpeg "Redmi Note 9S / 9 Pro (India)")
+![Redmi Note 9 Pro Max](https://cdn-files.kimovil.com/default/0004/36/thumb_335739_default_big.jpeg "Redmi Note 9 Pro Max")

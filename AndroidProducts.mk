@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_curtana.mk
+    $(LOCAL_DIR)/lineage_excalibur.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_curtana-user \
-    lineage_curtana-userdebug \
-    lineage_curtana-eng
+    lineage_excalibur-user \
+    lineage_excalibur-userdebug \
+    lineage_excalibur-eng
